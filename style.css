@@ -58,3 +58,9 @@ img {
 p{
     margin: 10px;
 }
+
+footer{
+    border-top: #161616 1px solid;
+    margin-top: 50px;
+    font-size: 15px;
+}
